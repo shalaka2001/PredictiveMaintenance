@@ -31,9 +31,7 @@ For this model to be used in an actual setting, I will need to demo it to my lea
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- https://github.com/shalaka2001/PredictiveMaintenance/blob/main/PredictiveMaintenance.ipynb
 
 
 ##### Contact and Further Information
