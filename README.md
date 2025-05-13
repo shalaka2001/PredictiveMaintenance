@@ -36,4 +36,4 @@ For this model to be used in an actual setting, I will need to demo it to my lea
 
 ##### Contact and Further Information
 Shalaka Tarkar
-Email: shalaka_ntarkar@accenture.com
+Email: shalaka_ntarkar@yahoo.com
