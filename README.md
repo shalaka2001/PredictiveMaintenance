@@ -24,7 +24,9 @@
 - Classification Model generation using GridSearchCV and Logistic Regression, Random Forest, KNN, SVM, Decision Tree and Neural networks algorithms. Evaluating the Grid Search hyperparameters to determine the best model.
 
 #### Results
-As the data is highly imbalanced, amongst all the algorithms that I evaluated - SVM had the best balance of accuracy 41% and highest "Yes" class recall 61%, which means that it could identify positive overload and fault scenarios better than other models. 
+As the data is highly imbalanced, amongst all the algorithms that I evaluated - 
+1. SVM had the best balance of accuracy 41% and highest "Yes" class recall 61%, which means that it could identify positive overload and fault scenarios better than other models.
+2. Neural Networks with Keras Classifier, 3 Dense layers and metrics of "F1" yielded 71% recall and 56% accuracy - by far the best amonst all the models I trained.
 
 #### Next steps
 For this model to be used in an actual setting, I will need to demo it to my leadership to show the potential. The model needs to be deployed and an API end point needs to be exposed to generate the output based on the readings input. As the electricity grid changes with additional components added/removed, actual data from the field needs to be used continuously to train the model (may be nightly) to make it more accurate.
